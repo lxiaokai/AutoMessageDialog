@@ -12,3 +12,4 @@
 
 
 ![](https://ws4.sinaimg.cn/large/006tKfTcgy1flirpzmfr3g309b0gn1l2.gif)
+AutoMessageDialog
